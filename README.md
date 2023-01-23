@@ -1,0 +1,18 @@
+# Hi Guys 👋
+
+
+### Who am I ?
+### :mortar_board: Master Student in Data Science
+
+### :computer: Junior Data Analyst
+
+### Who I want to be ?
+### :dart: Game Data Scientist
+
+----
+### :heart: Favorites:
+### Game:video_game:, Game:game_die: & Game:mag_right::unlock:
+
+----
+### 📫 Contact Me:
+:e-mail:[PrPishro@gmail.com](https://PrPishro@gmail.com) & :large_blue_circle:[MyTelegram](https://t.me/ParhamPishro)
