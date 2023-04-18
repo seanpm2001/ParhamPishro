@@ -15,4 +15,5 @@
 
 ----
 ### 📫 Contact Me:
-:e-mail:[PrPishro@gmail.com](https://PrPishro@gmail.com) & :large_blue_circle:[MyTelegram](https://t.me/ParhamPishro)
+:e-mail:[PrPishro@gmail.com](https://PrPishro@gmail.com) & :large_blue_circle:[My Telegram](https://t.me/ParhamPishro) &
+:information_source:[My LinkedIn](https://linkedin.com/in/parham-pishro)
