@@ -11,7 +11,7 @@
 
 ----
 ### :heart: Favorites:
-### Game
+### Game :video_game:
 
 ----
 ### 📫 Contact Me:
