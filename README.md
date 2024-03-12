@@ -11,7 +11,7 @@
 
 ----
 ### :heart: Favorites:
-### Game:video_game:, Game:game_die: & Game:mag_right::unlock:
+### Game
 
 ----
 ### 📫 Contact Me:
