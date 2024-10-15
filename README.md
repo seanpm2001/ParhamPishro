@@ -2,11 +2,11 @@
 
 
 ### Who am I ?
-### :mortar_board: Master Student in Data Science
+### :mortar_board: Master's Degree in Data Science
 
 ### :computer: Junior Data Analyst
 
-### Who I want to be ?
+### Who do I want to be ?
 ### :dart: Game Data Scientist
 
 ----
