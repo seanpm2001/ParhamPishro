@@ -25,8 +25,8 @@
 <h3 align="left">:fire: My Stats:</h3>
 
 ![Parham's github stats](https://github-readme-stats.vercel.app/api?username=parhampishro&show_icons=true&theme=tokyonight)
-![Parham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight)
+![Parham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight) 
 
 ---
 
