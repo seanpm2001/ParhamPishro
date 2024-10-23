@@ -19,7 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"                            title="numpy" alt="numpy" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"                          title="pandas" alt="pandas" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"                title="sklearn" alt="sklearn" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"                            title="LATEX" alt="LATEX" width="60" height="60"/>&nbsp;
 </div>
 
 ### :waning_gibbous_moon: Skilled 
@@ -29,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"                  title="TensorFlow" alt="TensorFlow " width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg"                            title="keras" alt="keras" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"                          title="MATLAB" alt="MATLAB" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg"                            title="LATEX" alt="LATEX" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg"                              title="spss" alt="spss" width="60" height="60"/>&nbsp;
 </div>
 
@@ -62,11 +62,17 @@
 
 ---
 
-<h3 align="left">:fire: My Stats:</h3>
+<h3 align="left">:bar_chart: My Stats:</h3>
 
-![Parham's github stats](https://github-readme-stats.vercel.app/api?username=parhampishro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight)
-![Parham GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight) 
+<a href="https://github.com/ParhamPishro">
+  <img height=120 width=330 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/ParhamPishro">
+  <img height=120 width=330 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+</a>
+<a href="https://github.com/ParhamPishro">
+  <img height=120 width=330 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
+</a>
 
 ---
 
