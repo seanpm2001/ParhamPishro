@@ -65,13 +65,13 @@
 <h3 align="left">:bar_chart: My Stats:</h3>
 <p align="center">
 <a href="https://github.com/ParhamPishro">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&theme=tokyonight" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&theme=tokyonight" />
 </a>
 <a href="https://github.com/ParhamPishro">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
 </a>
 <a href="https://github.com/ParhamPishro">
-  <img height=130 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
+  <img height=120 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
 </a>
 </p>
 
