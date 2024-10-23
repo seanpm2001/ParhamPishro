@@ -5,7 +5,7 @@
 
 :dart: I want to be a **Game Data Scientist**.
 
-:heart: **Interests:** Game :video_game: & Game :game_die:
+:heart: **Interests:** Video Game :video_game:, Board Game :game_die:, Programming :man_technologist:, Reading Personal Growth and Self Improvement Books :books:, Neuroscience :brain:, jogging :walking_man:, Volleyball :volleyball:, Exploring Other Cultures through Traveling :airplane:.
 
 📫 How to reach me **PrPishro@gmail.com**
 
@@ -64,13 +64,13 @@
 
 <h3 align="left">:bar_chart: My Stats:</h3>
 <p align="center">
-<a href="https://github.com/ParhamPishro">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=tokyonight" />
+<a href="https://github.com/ParhamPishro?tab=repositories">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/ParhamPishro">
-  <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
+<a href="https://github.com/ParhamPishro?tab=repositories">
+  <img height=170 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
 </a>
-<a href="https://github.com/ParhamPishro">
+<a href="https://github.com/ParhamPishro?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
 </a>
 </p>
