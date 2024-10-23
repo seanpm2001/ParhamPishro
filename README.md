@@ -67,21 +67,29 @@
 <h3 align="left">:bar_chart: My Stats:</h3>
 <p align="center">
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
 </a>
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
 </a>
 </p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/parham-pishro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parham pishro" height="30" width="40" /></a>
-<a href="https://kaggle.com/parhampishro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parham pishro" height="30" width="40" /></a>
-<a href="https://instagram.com/parhampishro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parham pishro" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://linkedin.com/in/parham-pishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+  <a href="https://t.me/ParhamPishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
+  <a href="https://PrPishro@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+  <a href="https://instagram.com/parhampishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
+  <a href="https://x.com/@parhampishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
+  <a href="https://wa.me/+989021821691" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
+</div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/snake.svg" alt="Snake animation" />
