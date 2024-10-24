@@ -65,21 +65,25 @@
 ---
 
 <h3 align="left">:bar_chart: My Stats:</h3>
+
 <p align="center">
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=tokyonight" />
+  <img width="406px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=tokyonight" />
+  <img width="394px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
 </a>
 <a href="https://github.com/ParhamPishro?tab=repositories">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampishro&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+  <img width="406px" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=merko">
+</a>
+<a href="https://github.com/ParhamPishro?tab=repositories">
+  <img width="394px" src="https://github-readme-activity-graph.vercel.app/graph?username=parhampishro&theme=merko">
 </a>
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:heavy_check_mark: Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/parham-pishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   <a href="https://t.me/ParhamPishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
