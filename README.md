@@ -90,6 +90,4 @@
 </div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake-dark.svg)
