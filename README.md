@@ -9,7 +9,7 @@
 
 - :heart: I'm Intrested in Video Game :video_game:, Board Game :game_die:, Programming :man_technologist:, Reading Personal Growth and Self Improvement Books :books:, Neuroscience :brain:, jogging :walking_man:, Volleyball :volleyball:, Exploring Other Cultures through Traveling :airplane:.
 
-- 📫 How to reach me **PrPishro@gmail.com**
+- :email: How to reach me **PrPishro@gmail.com**
 
 ---
 
@@ -83,7 +83,16 @@
 
 ---
 
-<h3 align="left">:heavy_check_mark: Connect with me:</h3>
+<h3 align="left">:snake: Snake Feeding:</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<h3 align="left">:mailbox_with_no_mail: Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/parham-pishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   <a href="https://t.me/ParhamPishro" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
@@ -93,8 +102,3 @@
   <a href="https://wa.me/+989021821691" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/parhampishro/parhampishro/output/github-contribution-grid-snake.svg">
-</picture>
