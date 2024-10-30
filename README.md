@@ -67,17 +67,17 @@
 <h3 align="left">:bar_chart: My Stats:</h3>
 
 <p align="center">
-<a href="https://github.com/ParhamPishro?tab=repositories">
-  <img width="406px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
+<a>
+  <img width="433px" src="https://github-readme-stats.vercel.app/api?username=parhampishro&theme=merko">
 </a>
-<a href="https://github.com/ParhamPishro?tab=repositories">
-  <img width="394px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
+<a">
+  <img width="393px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=parhampishro&layout=compact&theme=merko" />
 </a>
-<a href="https://github.com/ParhamPishro?tab=repositories">
-  <img width="406px" src="https://github-readme-stats.vercel.app/api?username=parhampishro&hide=contribs,issues&include_all_commits=true&theme=merko">
+<a>
+  <img width="433px" src="https://github-readme-activity-graph.vercel.app/graph?username=parhampishro&theme=merko">
 </a>
-<a href="https://github.com/ParhamPishro?tab=repositories">
-  <img width="394px" src="https://github-readme-activity-graph.vercel.app/graph?username=parhampishro&theme=merko">
+<a>
+  <img width="393px" src="https://github-readme-streak-stats.herokuapp.com/?user=parhampishro&theme=merko" />
 </a>
 </p>
 
